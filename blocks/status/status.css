@@ -1,0 +1,7 @@
+@import url(./__box/status__box.css);
+
+.status {
+    display: grid;
+    gap: 2rem;
+    grid: auto / repeat(3, 1fr);
+}
