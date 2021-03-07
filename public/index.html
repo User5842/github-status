@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./pages/index.css">
+    <script src="./scripts/index.js" defer></script>
+    <title>github-status</title>
+</head>
+<body class="page">
+    <div class="content">
+        <h1>Github Status</h1>
+        <img
+            class="loading"
+            src="https://media.giphy.com/media/QPQ3xlJhqR1BXl89RG/giphy.gif"
+            alt="Stanley from The Office waiting."
+        >
+        <section class="status"></section>
+        <button class="refresh" type="button">Refresh</button>
+    </div>
+    <template id="status__template">
+        <div class="status__box">
+            <h1 class="status__box-name"></h1>
+            <p class="status__box-status"></p>
+        </div>
+    </template>
+</body>
+</html>

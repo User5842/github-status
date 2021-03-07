@@ -1,0 +1,11 @@
+.status__box {
+    border: 1px solid black;
+    border-top: 4px solid green;
+    text-align: center;
+    transition: transform .5s;
+}
+
+.status__box:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
