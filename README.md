@@ -6,7 +6,7 @@ The video counterpart can be found on my YouTube channel [And Bits of that Natur
 
 ## Useful links
 
-- [<template>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
+- [template](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
 - [CSS Grid Layout](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [node-fetch](https://www.npmjs.com/package/node-fetch)
 - [cheerio](https://www.npmjs.com/package/cheerio)
